@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "709611488130",
+    "project_id": "sign-speak-c564e",
+    "storage_bucket": "sign-speak-c564e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709611488130:android:a5393741c459908b71859b",
+        "android_client_info": {
+          "package_name": "com.example.learning_01"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDN55YHssjXDdvSDypPMaxRfypEYF01R-Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
